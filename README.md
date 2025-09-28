@@ -1,10 +1,5 @@
-# Imp Escape/ Text Compressor homework -- CSE 532 
+# Text Compressor
 Sophia Reynolds
-
-# Imp Escape
-Very simply. The jupyter notebook for this has an obvious cell for its use. The
-associated .py file is also included in the zip file. I've included a test for this file in the 
-jupyter notebook file
 
 # Text Compressor
 
@@ -35,5 +30,6 @@ to write compressed text and its associated mapping into a file.
 
 ## Use
 ________________
-This is all my own work and I hope this README.md isn't terrible!!
+All my own work!
+
 
