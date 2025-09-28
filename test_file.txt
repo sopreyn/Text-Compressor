@@ -1,0 +1,49 @@
+[TEXT]
+Er!N6su+ye)7&*ach'&#!o#<3-k(W!ent<'&K0>o*@(w%r!{$rack Of/`p+7&wMn01ay. No)v<d-)#<!R!foliage(bu)of dusky=ue; {)ligh)R!b5gh+-d$ap<8g(bu)[# kna*+defMm'&An&m]`&#ick:>ruQ+#<!w<!nKe(bu)#Mn+In@Yd([# ven^>ill9. L6+s7rp #- #6e(L6+8|ic]!#!brak6(w%*80bid!T4s!-imals(#a)7t!#!cultur'&fields(Bet[x)CMneto -&Cec8a'+@*am.  H<!#!brut!H\pie+mak!#ei_n6t(#!sam!W4>Jm #!StJp7de+#!TJj-3-&DJv![# dir!bod8gZf #eir>utur!woe. BJa&\!#ei_pennKs(of #!hum->MmP%i_neck -&c5nt'n-ce(\m'&[#$alK+keeGR!feet(-&#!hug!belly>ledg![#18g+T%s!si)-&wailZG#!d*\ my@ic1ood. Ph!k8&8@ructM 8 #6!wMd+beg-: "Er!f\#< #5 pJceed(k{w #50r){w I' #'/ecK&r52(-&s7l)b}$ill #5 c^!UpoG#!4rri&s-d: look #e*fM!well Ar5n&#ee(-&sucV#8g+#5/7l)be4ld(A+w5l&my/peecVdisc*dQ." On0ll/ide+I %\&sa&pla88g+b*a#e(-&nK!c5l&X!FJm14m #ey migh)7v!issu9. In0maz!Fas)b5n&I/tood. He(a+i)Xem9(believ9(T7)I 7&#5gh)so m-y voice+cam!FJm/^!ami&#os!#icket+clos!cKcYl9(An&#u+hi+speecV*sum9: "If #5 lopZff A/8gl!t[g>Jm K!of #os!ill pl-ts(R!#5gh)#5 7s)cKceiv'&s7ll v-isVquQe." P%*a)a lQtl!@*tch8g>M# my=-d(FJm0 g*a)[ld8g ga#<'&I03r-ch(An&@raigh)#!|unk exclaim9: "Why pluck's)#5 me?"
+[MAPPING]
+e :=!
+th:=#
+ t:=$
+he:=%
+d :=&
+, :=(
+t :=)
+re:=*
+s :=+
+an:=-
+ s:=/
+ a:=0
+ w:=1
+nd:=2
+ b:=3
+ho:=4
+ou:=5
+es:=6
+ha:=7
+in:=8
+'d:=9
+er:=<
+ h:==
+ f:=>
+st:=@
+n :=G
+ro:=J
+on:=K
+or:=M
+ T:=P
+it:=Q
+Th:=R
+h :=V
+se:=X
+ea:=Y
+ o:=Z
+wi:=[
+ar:=\
+at:=]
+om:=^
+r :=_
+te:=`
+no:={
+tr:=|
+e,:=}
+ng:=~
